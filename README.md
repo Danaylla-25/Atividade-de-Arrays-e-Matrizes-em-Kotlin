@@ -30,4 +30,5 @@ Este projeto reúne 10 exercícios práticos divididos em dois blocos, explorand
 2. Abra o projeto na sua IDE Kotlin.
 3. Acesse o arquivo da questão desejada e execute a função `main()` para visualizar o resultado no console.
 
+---
 *Danaylla Pantoja dos Santos*
